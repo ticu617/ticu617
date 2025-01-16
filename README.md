@@ -18,10 +18,5 @@ I am a full stack developer with over 10 years of hands-on experience working fo
 So looking forward to working for you!    
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ticu90&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=ticu90&&style=flat-square)  
 
